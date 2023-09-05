@@ -3,7 +3,7 @@
 ## Overview
 This repository houses a machine learning project focused on predicting the survival of passengers aboard the ill-fated Titanic. The project is designed to showcase various aspects of the machine learning workflow, from data exploration and preprocessing to model building and evaluation. Whether you're a beginner looking to learn more about machine learning or an experienced data scientist, you'll find valuable insights and code examples in this repository.
 
-![Titanic]("https://static1.squarespace.com/static/5006453fe4b09ef2252ba068/5095eabce4b06cb305058603/5095eabce4b02d37bef4c24c/1352002236895/100_anniversary_titanic_sinking_by_esai8mellows-d4xbme8.jpg")
+![Titanic](https://static1.squarespace.com/static/5006453fe4b09ef2252ba068/5095eabce4b06cb305058603/5095eabce4b02d37bef4c24c/1352002236895/100_anniversary_titanic_sinking_by_esai8mellows-d4xbme8.jpg)
 
 ## Table of Contents
 - [Project Details](#project-details)
