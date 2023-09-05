@@ -6,12 +6,12 @@ This repository houses a machine learning project focused on predicting the surv
 ![Titanic](https://static1.squarespace.com/static/5006453fe4b09ef2252ba068/5095eabce4b06cb305058603/5095eabce4b02d37bef4c24c/1352002236895/100_anniversary_titanic_sinking_by_esai8mellows-d4xbme8.jpg)
 
 ## Table of Contents
-- [Project Details](#project-details)
-- [Dataset](#dataset)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Project Details](https://www.kaggle.com/competitions/titanic)
+- [Dataset](#https://www.kaggle.com/competitions/titanic)
+- [Getting Started](https://www.kaggle.com/competitions/titanic)
+- [Usage](https://www.kaggle.com/competitions/titanic)
+- [Contributing](https://www.kaggle.com/competitions/titanic)
+- [License](https://www.kaggle.com/competitions/titanic)
 
 ## Project Details
 In this project, we delve into the historic Titanic dataset, which contains passenger information such as age, gender, class, and, most importantly, survival outcomes. Our primary objective is to develop machine learning models that can accurately predict whether a passenger survived or not based on the provided features. We explore various algorithms and techniques to achieve the best possible predictions.
