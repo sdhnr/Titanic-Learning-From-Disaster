@@ -7,7 +7,7 @@ This repository houses a machine learning project focused on predicting the surv
 
 ## Table of Contents
 - [Project Details](https://www.kaggle.com/competitions/titanic)
-- [Dataset](#https://www.kaggle.com/competitions/titanic)
+- [Dataset](https://www.kaggle.com/competitions/titanic)
 - [Getting Started](https://www.kaggle.com/competitions/titanic)
 - [Usage](https://www.kaggle.com/competitions/titanic)
 - [Contributing](https://www.kaggle.com/competitions/titanic)
